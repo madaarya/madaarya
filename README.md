@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C735%20hrs%2023%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C731%20hrs%2046%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
 
@@ -61,13 +61,17 @@ Sunday       49 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Ruby                     2 hrs 51 mins       ███████████████████░░░░░░   79.15% 
+ERB                      28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.12% 
+YAML                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   3.98% 
+Markdown                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.28% 
+Slim                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.47%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  3 hrs 36 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  3 hrs 36 mins       █████████████████████████   100.0%
 
 ```
 
@@ -84,5 +88,5 @@ PHP                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 10/06/2022 16:28:27 UTC
+ Last Updated on 10/06/2022 20:18:26 UTC
 <!--END_SECTION:waka-->
