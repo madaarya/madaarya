@@ -26,11 +26,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C979%20hrs%2026%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C979%20hrs%2040%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-857%20Thousand%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
 
@@ -78,15 +78,15 @@ WSL                      13 hrs 17 mins      ███████████�
 **I Mostly Code in Ruby** 
 
 ```text
-Ruby                     14 repos            ████████░░░░░░░░░░░░░░░░░   33.33% 
-HTML                     11 repos            ██████░░░░░░░░░░░░░░░░░░░   26.19% 
-CSS                      9 repos             █████░░░░░░░░░░░░░░░░░░░░   21.43% 
-JavaScript               5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.9% 
-PHP                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.38%
+Ruby                     14 repos            ████████░░░░░░░░░░░░░░░░░   34.15% 
+HTML                     11 repos            ██████░░░░░░░░░░░░░░░░░░░   26.83% 
+CSS                      9 repos             █████░░░░░░░░░░░░░░░░░░░░   21.95% 
+JavaScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.76% 
+PHP                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.44%
 
 ```
 
 
 
- Last Updated on 30/10/2022 12:32:37 UTC
+ Last Updated on 30/10/2022 16:23:16 UTC
 <!--END_SECTION:waka-->
