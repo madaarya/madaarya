@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C770%20hrs%2027%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C767%20hrs%2015%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -59,13 +59,17 @@ Sunday                   4276 commits        █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Ruby                     1 hr 58 mins        ███████████████░░░░░░░░░░   61.89 % 
+Slim                     22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.61 % 
+YAML                     21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.26 % 
+ERB                      14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
+JavaScript               8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  3 hrs 12 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+WSL                      3 hrs 12 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Ruby** 
@@ -81,5 +85,5 @@ SCSS                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 07/01/2024 16:24:09 UTC
+ Last Updated on 07/01/2024 20:24:43 UTC
 <!--END_SECTION:waka-->
