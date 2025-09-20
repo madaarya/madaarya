@@ -26,8 +26,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-7%2C731%20hrs%2014%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-54.1%20million%20lines%20of%20code-blue)
@@ -86,5 +84,5 @@ PHP                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 20/09/2025 16:31:24 UTC
+ Last Updated on 20/09/2025 20:28:10 UTC
 <!--END_SECTION:waka-->
