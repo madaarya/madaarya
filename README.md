@@ -26,30 +26,30 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-8%2C597%20hrs%2021%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-8%2C597%20hrs%2011%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-60.70%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-60.51%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                121958 commits      █████████████░░░░░░░░░░░░   53.50 % 
-🌆 Daytime                60934 commits       ███████░░░░░░░░░░░░░░░░░░   26.73 % 
-🌃 Evening                20070 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   08.80 % 
-🌙 Night                  24978 commits       ███░░░░░░░░░░░░░░░░░░░░░░   10.96 % 
+🌞 Morning                121644 commits      █████████████░░░░░░░░░░░░   53.58 % 
+🌆 Daytime                60670 commits       ███████░░░░░░░░░░░░░░░░░░   26.72 % 
+🌃 Evening                19843 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   08.74 % 
+🌙 Night                  24866 commits       ███░░░░░░░░░░░░░░░░░░░░░░   10.95 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   35972 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.78 % 
-Tuesday                  38643 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.95 % 
-Wednesday                43675 commits       █████░░░░░░░░░░░░░░░░░░░░   19.16 % 
-Thursday                 37175 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.31 % 
-Friday                   40821 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.91 % 
-Saturday                 20930 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   09.18 % 
-Sunday                   10724 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
+Monday                   35798 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.77 % 
+Tuesday                  38524 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.97 % 
+Wednesday                43572 commits       █████░░░░░░░░░░░░░░░░░░░░   19.19 % 
+Thursday                 37072 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.33 % 
+Friday                   40709 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.93 % 
+Saturday                 20774 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   09.15 % 
+Sunday                   10574 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
 ```
 
 
@@ -59,17 +59,17 @@ Sunday                   10724 commits       █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Ruby                     51 mins             ██████████░░░░░░░░░░░░░░░   40.61 % 
-Slim                     37 mins             ███████░░░░░░░░░░░░░░░░░░   29.76 % 
-JavaScript               14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.21 % 
-Markdown                 7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
-CSS                      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
+Ruby                     47 mins             ████████░░░░░░░░░░░░░░░░░   32.98 % 
+Slim                     37 mins             ███████░░░░░░░░░░░░░░░░░░   26.07 % 
+Markdown                 28 mins             █████░░░░░░░░░░░░░░░░░░░░   19.88 % 
+JavaScript               14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.82 % 
+CSS                      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
 
 🔥 Editors: 
-Trae                     2 hrs 6 mins        █████████████████████████   100.00 % 
+Trae                     2 hrs 24 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      2 hrs 6 mins        █████████████████████████   100.00 % 
+Mac                      2 hrs 24 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Ruby** 
@@ -85,5 +85,5 @@ PHP                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 26/07/2026 17:30:29 UTC
+ Last Updated on 26/07/2026 21:33:22 UTC
 <!--END_SECTION:waka-->
