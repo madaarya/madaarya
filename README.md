@@ -59,17 +59,17 @@ Sunday                   10724 commits       █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Ruby                     1 hr 32 mins        ████████████░░░░░░░░░░░░░   46.65 % 
-Slim                     40 mins             █████░░░░░░░░░░░░░░░░░░░░   20.17 % 
-Bash                     15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 % 
-Other                    14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
-JavaScript               14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.13 % 
+Ruby                     51 mins             ██████████░░░░░░░░░░░░░░░   40.61 % 
+Slim                     37 mins             ███████░░░░░░░░░░░░░░░░░░   29.76 % 
+JavaScript               14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.21 % 
+Markdown                 7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
+CSS                      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
 
 🔥 Editors: 
-Trae                     3 hrs 18 mins       █████████████████████████   100.00 % 
+Trae                     2 hrs 6 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      3 hrs 18 mins       █████████████████████████   100.00 % 
+Mac                      2 hrs 6 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Ruby** 
@@ -85,5 +85,5 @@ PHP                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 25/07/2026 21:26:24 UTC
+ Last Updated on 26/07/2026 02:58:19 UTC
 <!--END_SECTION:waka-->
