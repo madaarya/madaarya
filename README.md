@@ -26,13 +26,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-8%2C263%20hrs%205%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-8%2C263%20hrs%2038%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-12%20hrs%2032%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-60.49%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-60.50%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -40,14 +40,14 @@ Here are some ideas to get you started:
 🌞 Morning                122045 commits      █████████████░░░░░░░░░░░░   53.51 % 
 🌆 Daytime                60969 commits       ███████░░░░░░░░░░░░░░░░░░   26.73 % 
 🌃 Evening                20070 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   08.80 % 
-🌙 Night                  24980 commits       ███░░░░░░░░░░░░░░░░░░░░░░   10.95 % 
+🌙 Night                  24981 commits       ███░░░░░░░░░░░░░░░░░░░░░░   10.95 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
 Monday                   35970 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.77 % 
 Tuesday                  38673 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.96 % 
-Wednesday                43725 commits       █████░░░░░░░░░░░░░░░░░░░░   19.17 % 
+Wednesday                43726 commits       █████░░░░░░░░░░░░░░░░░░░░   19.17 % 
 Thursday                 37193 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.31 % 
 Friday                   40852 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.91 % 
 Saturday                 20930 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   09.18 % 
@@ -61,17 +61,17 @@ Sunday                   10721 commits       █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Ruby                     57 mins             █████████░░░░░░░░░░░░░░░░   34.65 % 
-Slim                     46 mins             ███████░░░░░░░░░░░░░░░░░░   28.48 % 
-Markdown                 28 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.44 % 
-JavaScript               15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.29 % 
-CSS                      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 % 
+Slim                     51 mins             ████████░░░░░░░░░░░░░░░░░   30.04 % 
+Ruby                     46 mins             ███████░░░░░░░░░░░░░░░░░░   26.84 % 
+Markdown                 28 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.73 % 
+ERB                      17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.47 % 
+JavaScript               15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.12 % 
 
 🔥 Editors: 
-Trae                     2 hrs 44 mins       █████████████████████████   100.00 % 
+Trae                     2 hrs 51 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      2 hrs 44 mins       █████████████████████████   100.00 % 
+Mac                      2 hrs 51 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -83,15 +83,15 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in Ruby** 
 
 ```text
-Ruby                     27 repos            ██████████░░░░░░░░░░░░░░░   40.30 % 
-HTML                     17 repos            ██████░░░░░░░░░░░░░░░░░░░   25.37 % 
-JavaScript               7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.45 % 
-TypeScript               3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
-PHP                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
+Ruby                     28 repos            ██████████░░░░░░░░░░░░░░░   41.18 % 
+HTML                     17 repos            ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+JavaScript               7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.29 % 
+TypeScript               3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
+PHP                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
 ```
 
 
 
 
- Last Updated on 28/07/2026 18:06:37 UTC
+ Last Updated on 28/07/2026 21:52:49 UTC
 <!--END_SECTION:waka-->
