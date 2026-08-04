@@ -61,17 +61,17 @@ Sunday                   10871 commits       █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Ruby                     54 mins             ███████████░░░░░░░░░░░░░░   45.20 % 
-ERB                      44 mins             █████████░░░░░░░░░░░░░░░░   37.22 % 
-Slim                     16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
-Markdown                 4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+Ruby                     1 hr 1 min          ██████████████░░░░░░░░░░░   57.16 % 
+ERB                      29 mins             ███████░░░░░░░░░░░░░░░░░░   27.66 % 
+Slim                     8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 % 
+Markdown                 7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.89 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 
 🔥 Editors: 
-Trae                     1 hr 59 mins        █████████████████████████   100.00 % 
+Trae                     1 hr 47 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      1 hr 59 mins        █████████████████████████   100.00 % 
+Mac                      1 hr 47 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -93,5 +93,5 @@ PHP                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 04/08/2026 18:25:23 UTC
+ Last Updated on 04/08/2026 21:49:44 UTC
 <!--END_SECTION:waka-->
