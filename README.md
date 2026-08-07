@@ -26,57 +26,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-8%2C265%20hrs%205%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-12%20hrs%2032%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-60.71%20million%20lines%20of%20code-blue?style=flat)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                122512 commits      █████████████░░░░░░░░░░░░   53.46 % 
-🌆 Daytime                61263 commits       ███████░░░░░░░░░░░░░░░░░░   26.73 % 
-🌃 Evening                20298 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   08.86 % 
-🌙 Night                  25098 commits       ███░░░░░░░░░░░░░░░░░░░░░░   10.95 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   36193 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
-Tuesday                  38814 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.94 % 
-Wednesday                43915 commits       █████░░░░░░░░░░░░░░░░░░░░   19.16 % 
-Thursday                 37322 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.29 % 
-Friday                   40968 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.88 % 
-Saturday                 21088 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   09.20 % 
-Sunday                   10871 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   04.74 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Jakarta
-
-💬 Programming Languages: 
-Ruby                     46 mins             ███████████████████░░░░░░   75.27 % 
-Slim                     8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.91 % 
-Markdown                 7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.82 % 
-
-🔥 Editors: 
-Trae                     1 hr 2 mins         █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Mac                      1 hr 2 mins         █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
 
 **I Mostly Code in Ruby** 
 
@@ -91,5 +43,5 @@ PHP                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 06/08/2026 14:39:15 UTC
+ Last Updated on 07/08/2026 01:35:22 UTC
 <!--END_SECTION:waka-->
