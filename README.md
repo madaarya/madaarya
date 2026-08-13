@@ -61,17 +61,17 @@ Sunday                   11040 commits       █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Slim                     50 mins             ████████░░░░░░░░░░░░░░░░░   33.39 % 
-Ruby                     43 mins             ███████░░░░░░░░░░░░░░░░░░   29.32 % 
-YAML                     23 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.40 % 
-ERB                      17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.66 % 
-Other                    15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.14 % 
+Ruby                     1 hr 44 mins        ██████████░░░░░░░░░░░░░░░   39.31 % 
+Slim                     1 hr 43 mins        ██████████░░░░░░░░░░░░░░░   39.17 % 
+YAML                     23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.72 % 
+ERB                      18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
+Other                    15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.74 % 
 
 🔥 Editors: 
-Trae                     2 hrs 29 mins       █████████████████████████   100.00 % 
+Trae                     4 hrs 24 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      2 hrs 29 mins       █████████████████████████   100.00 % 
+Mac                      4 hrs 24 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -93,5 +93,5 @@ PHP                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 13/08/2026 17:39:13 UTC
+ Last Updated on 13/08/2026 21:16:37 UTC
 <!--END_SECTION:waka-->
