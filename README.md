@@ -32,53 +32,7 @@ Here are some ideas to get you started:
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-61.54%20million%20lines%20of%20code-blue?style=flat)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                122695 commits      █████████████░░░░░░░░░░░░   53.22 % 
-🌆 Daytime                61781 commits       ███████░░░░░░░░░░░░░░░░░░   26.80 % 
-🌃 Evening                20743 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   09.00 % 
-🌙 Night                  25318 commits       ███░░░░░░░░░░░░░░░░░░░░░░   10.98 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   36352 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.77 % 
-Tuesday                  38903 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.87 % 
-Wednesday                44185 commits       █████░░░░░░░░░░░░░░░░░░░░   19.17 % 
-Thursday                 37510 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.27 % 
-Friday                   41011 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.79 % 
-Saturday                 21399 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   09.28 % 
-Sunday                   11177 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Jakarta
-
-💬 Programming Languages: 
-Slim                     1 hr 43 mins        ██████████░░░░░░░░░░░░░░░   39.21 % 
-Ruby                     1 hr 43 mins        ██████████░░░░░░░░░░░░░░░   39.18 % 
-YAML                     23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.76 % 
-ERB                      18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 
-Other                    15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
-
-🔥 Editors: 
-Trae                     4 hrs 23 mins       █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Mac                      4 hrs 23 mins       █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-61.73%20million%20lines%20of%20code-blue?style=flat)
 
 **I Mostly Code in Ruby** 
 
@@ -93,5 +47,5 @@ PHP                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 17/08/2026 17:01:57 UTC
+ Last Updated on 17/08/2026 21:02:48 UTC
 <!--END_SECTION:waka-->
