@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-8%2C272%20hrs%2044%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-8%2C277%20hrs%2023%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-12%20hrs%2032%20mins-blue?style=flat)
 
@@ -61,13 +61,16 @@ Sunday                   11399 commits       █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Ruby                     1 hr 17 mins        █████████████████████████   100.00 % 
+Ruby                     3 hrs 31 mins       ████████████████░░░░░░░░░   63.90 % 
+TypeScript               1 hr 52 mins        █████████░░░░░░░░░░░░░░░░   34.04 % 
+CSS                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
+YAML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
 
 🔥 Editors: 
-Trae                     1 hr 17 mins        █████████████████████████   100.00 % 
+Trae                     5 hrs 30 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      1 hr 17 mins        █████████████████████████   100.00 % 
+Mac                      5 hrs 30 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -89,5 +92,5 @@ PHP                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 31/08/2026 19:29:10 UTC
+ Last Updated on 01/09/2026 00:18:20 UTC
 <!--END_SECTION:waka-->
