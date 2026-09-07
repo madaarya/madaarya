@@ -61,16 +61,14 @@ Sunday                   12908 commits       █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Ruby                     3 hrs 24 mins       ██████████████░░░░░░░░░░░   55.59 % 
-TypeScript               2 hrs 36 mins       ███████████░░░░░░░░░░░░░░   42.56 % 
-CSS                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
-YAML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
+Ruby                     44 mins             █████████████░░░░░░░░░░░░   51.66 % 
+TypeScript               41 mins             ████████████░░░░░░░░░░░░░   48.34 % 
 
 🔥 Editors: 
-Trae                     6 hrs 8 mins        █████████████████████████   100.00 % 
+Trae                     1 hr 26 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      6 hrs 8 mins        █████████████████████████   100.00 % 
+Mac                      1 hr 26 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -92,5 +90,5 @@ Python                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 07/09/2026 17:52:51 UTC
+ Last Updated on 07/09/2026 23:08:38 UTC
 <!--END_SECTION:waka-->
