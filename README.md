@@ -61,33 +61,33 @@ Sunday                   13827 commits       █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Ruby                     8 hrs 11 mins       ████████████░░░░░░░░░░░░░   49.69 % 
-Markdown                 4 hrs 33 mins       ███████░░░░░░░░░░░░░░░░░░   27.65 % 
-Other                    1 hr 38 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.93 % 
-Text                     36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
-ERB                      32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+Ruby                     6 hrs 43 mins       ███████████░░░░░░░░░░░░░░   44.76 % 
+Markdown                 4 hrs 33 mins       ████████░░░░░░░░░░░░░░░░░   30.35 % 
+Other                    1 hr 38 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.90 % 
+Text                     36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
+ERB                      32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
 
 🔥 Editors: 
-Claude Code              15 hrs 11 mins      ███████████████████████░░   92.17 % 
-Zed                      1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
-Unknown Editor           3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+Claude Code              13 hrs 35 mins      ███████████████████████░░   90.57 % 
+Zed                      1 hr 21 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.04 % 
+Unknown Editor           3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
 
 💻 Operating System: 
-Mac                      16 hrs 28 mins      █████████████████████████   100.00 % 
+Mac                      15 hrs              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 15 hrs 37 mins (94.8%)
+⏱ AI Coding Time: 14 hrs 1 min (93.45%)
 
 ✍️ 7,647 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 9,341,548 Input Tokens, 934,200 Output Tokens
+🔤 9,161,779 Input Tokens, 926,266 Output Tokens
 
-💵 $220.30 Estimated AI Cost This Week
+💵 $211.75 Estimated AI Cost This Week
 
-🧠 51 AI Sessions, 179 AI Prompts
+🧠 50 AI Sessions, 161 AI Prompts
 
 Opus                     4,877 lines         ███████████████░░░░░░░░░░   61.16 % 
 Fable                    2,696 lines         ████████░░░░░░░░░░░░░░░░░   33.81 % 
@@ -95,8 +95,8 @@ Sonnet                   401 lines           █░░░░░░░░░░�
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 1,474 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
+📚 Verbose Prompter — average 1,624 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -113,5 +113,5 @@ Python                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 27/09/2026 17:03:50 UTC
+ Last Updated on 27/09/2026 23:29:50 UTC
 <!--END_SECTION:waka-->
