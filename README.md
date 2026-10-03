@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-8%2C304%20hrs%2011%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-8%2C306%20hrs%2019%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-38%20hrs%2031%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-41%20hrs%2028%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -61,42 +61,42 @@ Sunday                   13992 commits       █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Ruby                     7 hrs 40 mins       ██████████░░░░░░░░░░░░░░░   38.06 % 
-Markdown                 7 hrs 17 mins       █████████░░░░░░░░░░░░░░░░   36.13 % 
-Other                    1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.68 % 
-JSON                     1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.60 % 
-Bash                     1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
+Ruby                     7 hrs 50 mins       █████████░░░░░░░░░░░░░░░░   36.46 % 
+Markdown                 7 hrs 44 mins       █████████░░░░░░░░░░░░░░░░   35.94 % 
+Other                    1 hr 54 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.88 % 
+JSON                     1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.18 % 
+Bash                     1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
 
 🔥 Editors: 
-Claude Code              18 hrs 23 mins      ███████████████████████░░   91.24 % 
-Zed                      1 hr 45 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.76 % 
+Claude Code              19 hrs 52 mins      ███████████████████████░░   92.37 % 
+Zed                      1 hr 38 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
 
 💻 Operating System: 
-Mac                      20 hrs 9 mins       █████████████████████████   100.00 % 
+Mac                      21 hrs 31 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 19 hrs 4 mins (94.6%)
+⏱ AI Coding Time: 20 hrs 30 mins (95.29%)
 
-✍️ 9,383 lines written by AI, 62 lines written by hand (99.34% AI-written)
+✍️ 8,371 lines written by AI, 62 lines written by hand (99.26% AI-written)
 
-🔤 10,991,764 Input Tokens, 1,559,442 Output Tokens
+🔤 13,800,850 Input Tokens, 1,766,884 Output Tokens
 
-💵 $307.83 Estimated AI Cost This Week
+💵 $389.64 Estimated AI Cost This Week
 
-🧠 57 AI Sessions, 257 AI Prompts
+🧠 55 AI Sessions, 229 AI Prompts
 
-Opus                     8,962 lines         ██████████████████████░░░   88.13 % 
-Fable                    1,207 lines         ███░░░░░░░░░░░░░░░░░░░░░░   11.87 % 
+Opus                     8,764 lines         ████████████████████████░   94.25 % 
+Fable                    535 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
 Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.34% of written lines came from AI
-📚 Verbose Prompter — average 1,731 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 0.61% of changed lines were hand-edited
+🤖 AI-Driven — 99.26% of written lines came from AI
+📚 Verbose Prompter — average 1,953 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 0.66% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Ruby** 
@@ -112,5 +112,5 @@ Python                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 02/10/2026 18:19:38 UTC
+ Last Updated on 03/10/2026 00:17:03 UTC
 <!--END_SECTION:waka-->
