@@ -39,14 +39,14 @@ Here are some ideas to get you started:
 ```text
 🌞 Morning                134626 commits      █████████████░░░░░░░░░░░░   51.77 % 
 🌆 Daytime                71316 commits       ███████░░░░░░░░░░░░░░░░░░   27.42 % 
-🌃 Evening                26232 commits       ███░░░░░░░░░░░░░░░░░░░░░░   10.09 % 
+🌃 Evening                26237 commits       ███░░░░░░░░░░░░░░░░░░░░░░   10.09 % 
 🌙 Night                  27889 commits       ███░░░░░░░░░░░░░░░░░░░░░░   10.72 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
 Monday                   42568 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.37 % 
-Tuesday                  43013 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.54 % 
+Tuesday                  43018 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.54 % 
 Wednesday                49746 commits       █████░░░░░░░░░░░░░░░░░░░░   19.13 % 
 Thursday                 40986 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.76 % 
 Friday                   44402 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.07 % 
@@ -61,42 +61,42 @@ Sunday                   14444 commits       █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Markdown                 6 hrs 18 mins       █████████░░░░░░░░░░░░░░░░   35.11 % 
-Ruby                     6 hrs 16 mins       █████████░░░░░░░░░░░░░░░░   34.87 % 
-Other                    2 hrs 26 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.55 % 
-JSON                     1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.85 % 
-Bash                     1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   05.70 % 
+Ruby                     9 hrs 16 mins       ███████████░░░░░░░░░░░░░░   45.25 % 
+Markdown                 8 hrs 34 mins       ██████████░░░░░░░░░░░░░░░   41.85 % 
+Other                    2 hrs 20 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.44 % 
+Text                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
+YAML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
 
 🔥 Editors: 
-Claude Code              16 hrs 20 mins      ███████████████████████░░   90.94 % 
-Zed                      1 hr 37 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.06 % 
+Claude Code              18 hrs 31 mins      ███████████████████████░░   90.44 % 
+Zed                      1 hr 57 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.56 % 
 
 💻 Operating System: 
-Mac                      17 hrs 58 mins      █████████████████████████   100.00 % 
+Mac                      20 hrs 29 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 16 hrs 56 mins (94.22%)
+⏱ AI Coding Time: 19 hrs 10 mins (93.61%)
 
-✍️ 3,448 lines written by AI, 62 lines written by hand (98.23% AI-written)
+✍️ 3,536 lines written by AI, 62 lines written by hand (98.28% AI-written)
 
-🔤 12,839,462 Input Tokens, 1,551,571 Output Tokens
+🔤 15,887,759 Input Tokens, 1,967,600 Output Tokens
 
-💵 $372.50 Estimated AI Cost This Week
+💵 $562.85 Estimated AI Cost This Week
 
-🧠 54 AI Sessions, 203 AI Prompts
+🧠 42 AI Sessions, 206 AI Prompts
 
-Opus                     3,169 lines         █████████████████████░░░░   85.56 % 
-Fable                    535 lines           ████░░░░░░░░░░░░░░░░░░░░░   14.44 % 
+Opus                     4,005 lines         ████████████████████████░   95.77 % 
+Fable                    177 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
 Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.23% of written lines came from AI
-📚 Verbose Prompter — average 2,058 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 1.65% of changed lines were hand-edited
+🤖 AI-Driven — 98.28% of written lines came from AI
+📄 Detailed Prompter — average 1,361 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 1.46% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Ruby** 
@@ -112,5 +112,5 @@ Python                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 06/10/2026 15:37:50 UTC
+ Last Updated on 06/10/2026 21:44:26 UTC
 <!--END_SECTION:waka-->
