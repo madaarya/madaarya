@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 ```text
 🌞 Morning                135403 commits      █████████████░░░░░░░░░░░░   51.70 % 
 🌆 Daytime                71965 commits       ███████░░░░░░░░░░░░░░░░░░   27.48 % 
-🌃 Evening                26514 commits       ███░░░░░░░░░░░░░░░░░░░░░░   10.12 % 
+🌃 Evening                26515 commits       ███░░░░░░░░░░░░░░░░░░░░░░   10.12 % 
 🌙 Night                  28008 commits       ███░░░░░░░░░░░░░░░░░░░░░░   10.69 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
@@ -49,7 +49,7 @@ Monday                   43038 commits       ████░░░░░░░�
 Tuesday                  43233 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.51 % 
 Wednesday                50153 commits       █████░░░░░░░░░░░░░░░░░░░░   19.15 % 
 Thursday                 41236 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.75 % 
-Friday                   44579 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.02 % 
+Friday                   44580 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.02 % 
 Saturday                 25061 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   09.57 % 
 Sunday                   14590 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
 ```
@@ -61,42 +61,41 @@ Sunday                   14590 commits       █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Ruby                     10 hrs 33 mins      ██████████░░░░░░░░░░░░░░░   41.56 % 
-Markdown                 10 hrs 33 mins      ██████████░░░░░░░░░░░░░░░   41.54 % 
-Other                    3 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.56 % 
-Text                     28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
-JSON                     27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
+Markdown                 12 hrs 51 mins      ████████████░░░░░░░░░░░░░   48.36 % 
+Ruby                     10 hrs 12 mins      ██████████░░░░░░░░░░░░░░░   38.41 % 
+Other                    2 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 % 
+Text                     42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
+JSON                     27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
 
 🔥 Editors: 
-Claude Code              22 hrs 54 mins      ███████████████████████░░   90.21 % 
-Zed                      1 hr 24 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.52 % 
-Opencode Cli             1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
+Claude Code              25 hrs 11 mins      ████████████████████████░   94.73 % 
+Zed                      1 hr 24 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
 
 💻 Operating System: 
-Mac                      25 hrs 24 mins      █████████████████████████   100.00 % 
+Mac                      26 hrs 35 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 24 hrs 3 mins (94.73%)
+⏱ AI Coding Time: 25 hrs 15 mins (94.97%)
 
-✍️ 4,302 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 4,771 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 18,056,230 Input Tokens, 2,383,711 Output Tokens
+🔤 17,127,987 Input Tokens, 2,423,795 Output Tokens
 
-💵 $675.75 Estimated AI Cost This Week
+💵 $661.97 Estimated AI Cost This Week
 
-🧠 29 AI Sessions, 238 AI Prompts
+🧠 25 AI Sessions, 267 AI Prompts
 
-Opus                     4,913 lines         ████████████████████████░   96.90 % 
-Fable                    157 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
+Opus                     5,253 lines         ████████████████████████░   97.10 % 
+Fable                    157 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
 DeepSeek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 546 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
+📝 Concise Prompter — average 420 characters per prompt
+🔁 Iterative Prompter — average 11 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -113,5 +112,5 @@ Python                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 09/10/2026 15:56:16 UTC
+ Last Updated on 09/10/2026 21:26:36 UTC
 <!--END_SECTION:waka-->
